@@ -139,10 +139,10 @@ Material:
     - _Rim_Power: 5
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
-    - _Snow_Amount: 0.688
-    - _Snow_Blend_Distance: 0.042
+    - _Snow_Amount: 0.48
+    - _Snow_Blend_Distance: 0.06
     - _Snow_Color_Noise_Size: 250
-    - _Snow_Color_Noise_Strength: 0.5
+    - _Snow_Color_Noise_Strength: 0.47
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
